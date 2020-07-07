@@ -4,3 +4,5 @@
   - [Python魔法方法指南](https://pyzh.readthedocs.io/en/latest/python-magic-methods-guide.html)
 - 类
   - [MRO](https://hanjianwei.com/2013/07/25/python-mro/)
+- 标准库
+  - [Python 3 标准库实例教程](https://learnku.com/docs/pymotw/)
