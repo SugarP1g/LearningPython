@@ -2,3 +2,5 @@
   - [Python 中的 Socket 编程（指南）](https://keelii.com/2018/09/24/socket-programming-in-python/)
 - Magic Method
   - [Python魔法方法指南](https://pyzh.readthedocs.io/en/latest/python-magic-methods-guide.html)
+- 类
+  - [MRO](https://hanjianwei.com/2013/07/25/python-mro/)
