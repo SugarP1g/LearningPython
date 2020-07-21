@@ -7,3 +7,5 @@
 - 标准库
   - [Python 3 标准库实例教程](https://learnku.com/docs/pymotw/)
   - [Python 3 Module of the Week](https://pymotw.com/3/)
+- 数据结构
+  - [Python 算法与数据结构视频教程](https://pegasuswang.github.io/python_data_structures_and_algorithms/)
