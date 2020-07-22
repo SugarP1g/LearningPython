@@ -9,3 +9,6 @@
   - [Python 3 Module of the Week](https://pymotw.com/3/)
 - 数据结构
   - [Python 算法与数据结构视频教程](https://pegasuswang.github.io/python_data_structures_and_algorithms/)
+- 正则
+  - [正则在线调试debuggex](https://www.debuggex.com/)
+  - [pyregex](http://www.pyregex.com/)
