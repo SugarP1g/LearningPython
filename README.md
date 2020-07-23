@@ -12,3 +12,5 @@
 - 正则
   - [正则在线调试debuggex](https://www.debuggex.com/)
   - [pyregex](http://www.pyregex.com/)
+- Py2切Py3
+  - [The Conservative Python 3 Porting Guide](https://portingguide.readthedocs.io/en/latest/)
