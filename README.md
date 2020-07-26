@@ -19,3 +19,6 @@
   - [Python系列干货之——Python与设计模式](https://zhuanlan.zhihu.com/p/31675841)
 - 并发
   - [Python并行编程 中文版](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/)
+- 协程
+  - [Python协程](https://thief.one/2017/02/20/Python%E5%8D%8F%E7%A8%8B/)
+  - [Python3.5协程学习研究](https://thief.one/2018/06/21/1/)
