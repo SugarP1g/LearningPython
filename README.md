@@ -24,3 +24,5 @@
   - [Python3.5协程学习研究](https://thief.one/2018/06/21/1/)
 - 性能
   - [Pyflame: A Ptracing Profiler For Python](https://pyflame.readthedocs.io/en/latest/)
+- 书籍
+  - [Python Cookbook 3rd Edition Documentation](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
