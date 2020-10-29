@@ -24,6 +24,7 @@
   - [Python3.5协程学习研究](https://thief.one/2018/06/21/1/)
 - web
   - Flask
+    - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask)
     - [Flask文档](https://dormousehole.readthedocs.io/en/latest/index.html)
     - [Flask之旅](https://github.com/spacewander/explore-flask-zh)
     - [在 Flask 中使用 Celery](http://www.pythondoc.com/flask-celery/first.html)
