@@ -29,6 +29,8 @@
     - [Flask之旅](https://github.com/spacewander/explore-flask-zh)
     - [在 Flask 中使用 Celery](http://www.pythondoc.com/flask-celery/first.html)
     - [Flask-SQLAlchemy](http://www.pythondoc.com/flask-sqlalchemy/index.html)
+- Celery
+  - [Celey中文手册](https://www.celerycn.io/)
 - 性能
   - [Pyflame: A Ptracing Profiler For Python](https://pyflame.readthedocs.io/en/latest/)
 - 书籍
