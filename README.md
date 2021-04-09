@@ -9,6 +9,7 @@
   - [Python 3 Module of the Week](https://pymotw.com/3/)
   - [Python eval(): Evaluate Expressions Dynamically](https://realpython.com/python-eval-function/)
   - [Python: What's the difference between \_\_builtin\_\_ and \_\_builtins\_\_?](https://stackoverflow.com/questions/11181519/python-whats-the-difference-between-builtin-and-builtins)
+  - [What Is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
 - 数据结构
   - [Python 算法与数据结构视频教程](https://pegasuswang.github.io/python_data_structures_and_algorithms/)
 - 正则
