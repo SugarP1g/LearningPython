@@ -36,6 +36,8 @@
     - [使用 Flask 设计 RESTful APIs](http://www.pythondoc.com/flask-restful/index.html)
   - Celery
     - [Celey中文手册](https://www.celerycn.io/)
+- 调试
+  - [PyCharm远程调试代码](https://zhuanlan.zhihu.com/p/36843200) 
 - 性能
   - [Pyflame: A Ptracing Profiler For Python](https://pyflame.readthedocs.io/en/latest/)
 - 书籍
