@@ -37,7 +37,10 @@
   - Celery
     - [Celey中文手册](https://www.celerycn.io/)
 - 调试
-  - [PyCharm远程调试代码](https://zhuanlan.zhihu.com/p/36843200) 
+  - [PyCharm远程调试代码](https://zhuanlan.zhihu.com/p/36843200)
+  - [py-spy: Sampling profiler for Python programs](https://github.com/benfred/py-spy)
+  - 问题定位
+    - [python memory leaks](https://stackoverflow.com/questions/1435415/python-memory-leaks)
 - 性能
   - [Pyflame: A Ptracing Profiler For Python](https://pyflame.readthedocs.io/en/latest/)
 - 书籍
