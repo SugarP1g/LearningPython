@@ -41,6 +41,7 @@
   - [py-spy: Sampling profiler for Python programs](https://github.com/benfred/py-spy)
   - 问题定位
     - [python memory leaks](https://stackoverflow.com/questions/1435415/python-memory-leaks)
+    - [eventlet fd未释放问题](https://github.com/eventlet/eventlet/issues/197)
 - 性能
   - [Pyflame: A Ptracing Profiler For Python](https://pyflame.readthedocs.io/en/latest/)
 - 书籍
