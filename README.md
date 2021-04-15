@@ -12,6 +12,8 @@
 - GIL
   - [What Is the Python Global Interpreter Lock (GIL)?](https://realpython.com/python-gil/)
   - [Understanding the Python GIL](https://www.dabeaz.com/python/UnderstandingGIL.pdf)
+- GC
+  - [Memory Management in Python](https://realpython.com/python-memory-management/)
 - 类
   - [MRO](https://hanjianwei.com/2013/07/25/python-mro/)
 - 算法
