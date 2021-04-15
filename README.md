@@ -15,6 +15,8 @@
 - GC
   - [Memory Management in Python](https://realpython.com/python-memory-management/)
   - [GC：垃圾收集器](https://learnku.com/docs/pymotw/gc-garbage-collector/3484)
+- 装饰器
+  - [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
 - 类
   - [MRO](https://hanjianwei.com/2013/07/25/python-mro/)
 - 算法
