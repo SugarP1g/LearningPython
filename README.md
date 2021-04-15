@@ -14,6 +14,7 @@
   - [Understanding the Python GIL](https://www.dabeaz.com/python/UnderstandingGIL.pdf)
 - GC
   - [Memory Management in Python](https://realpython.com/python-memory-management/)
+  - [GC：垃圾收集器](https://learnku.com/docs/pymotw/gc-garbage-collector/3484)
 - 类
   - [MRO](https://hanjianwei.com/2013/07/25/python-mro/)
 - 算法
