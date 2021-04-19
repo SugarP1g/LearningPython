@@ -48,6 +48,7 @@
 - 调试
   - [PyCharm远程调试代码](https://zhuanlan.zhihu.com/p/36843200)
   - [py-spy: Sampling profiler for Python programs](https://github.com/benfred/py-spy)
+  - [使用 gdb 调试运行中的 Python 进程](https://mozillazg.com/2017/07/debug-running-python-process-with-gdb.html)
   - 问题定位
     - [python memory leaks](https://stackoverflow.com/questions/1435415/python-memory-leaks)
     - [eventlet fd未释放问题](https://github.com/eventlet/eventlet/issues/197)
