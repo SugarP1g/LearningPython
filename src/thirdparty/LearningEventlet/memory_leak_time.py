@@ -3,7 +3,7 @@
 
 import eventlet
 
-eventlet.patcher.monkey_patch(socket=True, time=True, thread=True)
+eventlet.patcher.monkey_patch(socket=True, time=True)
 
 import threading
 import time
