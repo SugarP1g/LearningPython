@@ -56,3 +56,4 @@
   - [Pyflame: A Ptracing Profiler For Python](https://pyflame.readthedocs.io/en/latest/)
 - 书籍
   - [Python Cookbook 3rd Edition Documentation](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
+  - [Think Python 2th](https://greenteapress.com/thinkpython2/html/index.html)
