@@ -28,6 +28,7 @@
   - [The Conservative Python 3 Porting Guide](https://portingguide.readthedocs.io/en/latest/)
   - [The key differences between Python 2.7.x and Python 3.x with examples](https://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
 - 设计模式
+  - [python patterns](https://github.com/faif/python-patterns)
   - [Python系列干货之——Python与设计模式](https://zhuanlan.zhihu.com/p/31675841)
 - 并发
   - [Python并行编程 中文版](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/)
