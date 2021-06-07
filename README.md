@@ -46,6 +46,8 @@
     - [使用 Flask 设计 RESTful APIs](http://www.pythondoc.com/flask-restful/index.html)
   - Celery
     - [Celey中文手册](https://www.celerycn.io/)
+  - SQLAlchemy
+    - [SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/contents.html)
 - 调试
   - [PyCharm远程调试代码](https://zhuanlan.zhihu.com/p/36843200)
   - [py-spy: Sampling profiler for Python programs](https://github.com/benfred/py-spy)
