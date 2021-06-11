@@ -48,6 +48,7 @@
     - [Celey中文手册](https://www.celerycn.io/)
   - SQLAlchemy
     - [sqlalchemy资源汇总](https://www.fullstackpython.com/sqlalchemy.html)
+    - [ Architecture of Open Source Applications book on SQLAlchemy](http://aosabook.org/en/sqlalchemy.html)
     - [SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/contents.html)
 - 调试
   - [PyCharm远程调试代码](https://zhuanlan.zhihu.com/p/36843200)
