@@ -51,6 +51,7 @@
     - [SQLAlchemy at Architecture of Open Source Applications](http://aosabook.org/en/sqlalchemy.html)
     - [SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/contents.html)
 - 调试
+  - [Python运行过程展示](http://www.pythontutor.com/visualize.html#mode=edit)
   - [PyCharm远程调试代码](https://zhuanlan.zhihu.com/p/36843200)
   - [py-spy: Sampling profiler for Python programs](https://github.com/benfred/py-spy)
   - [使用 gdb 调试运行中的 Python 进程](https://mozillazg.com/2017/07/debug-running-python-process-with-gdb.html)
