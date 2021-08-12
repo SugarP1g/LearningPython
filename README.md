@@ -7,6 +7,7 @@
   - MISC
     - [Python eval(): Evaluate Expressions Dynamically](https://realpython.com/python-eval-function/)
     - [Python: What's the difference between \_\_builtin\_\_ and \_\_builtins\_\_?](https://stackoverflow.com/questions/11181519/python-whats-the-difference-between-builtin-and-builtins)
+    - [Fork vs Spawn in Python Multiprocessing](https://britishgeologicalsurvey.github.io/science/python-forking-vs-spawn/)
 - Magic Method
   - [Python魔法方法指南](https://pyzh.readthedocs.io/en/latest/python-magic-methods-guide.html)
 - GIL
