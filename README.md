@@ -44,6 +44,8 @@
     - [Flask-SQLAlchemy](http://www.pythondoc.com/flask-sqlalchemy/index.html)
     - [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io/en/latest/)
     - [使用 Flask 设计 RESTful APIs](http://www.pythondoc.com/flask-restful/index.html)
+  - FastApi
+    - [FastApi 中文官方指南](https://fastapi.tiangolo.com/zh/tutorial/)
   - Celery
     - [Celey中文手册](https://www.celerycn.io/)
   - SQLAlchemy
